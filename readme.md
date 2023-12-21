@@ -64,7 +64,10 @@ To run the script just type
 
 
 
+## Special Thanks
 
+Special thanks to @AdamMarsden for the stucture inspiration
+https://gist.github.com/AdamMarsden/7b85e8d5bdb5bef969a0
 
 
 
