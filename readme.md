@@ -50,7 +50,7 @@ Why did I build to project and what did it solve?
 
 
 
-Sassy-Generator is built with the following tools and libraries: <ul><li>Javascript</li><li>npm</li><li>Node.js</li></ul>
+Sassy-Structure is built with the following tools and libraries: <ul><li>Javascript</li><li>npm</li><li>Node.js</li></ul>
 
 
 
