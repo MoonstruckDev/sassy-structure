@@ -2,8 +2,8 @@
 
   [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/MIT)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-![GitHub stars](https://badgen.net/github/stars/MoonstruckDev/sassy-structure)
-![GitHub stars](https://badgen.net/github/watchers/MoonstruckDev/sassy-structure)
+![GitHub stars](https://badgen.net/github/stars/moonstruckdev/sassy-structure)
+![GitHub stars](https://badgen.net/github/watchers/moonstruckdev/sassy-structure)
 
 
 ## Table Of Content
