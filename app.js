@@ -27,7 +27,6 @@ const folderStructure = [
   'sass/layout',
   'sass/pages',
   'sass/sass-utils',
-  'sass/vendors',
 ];
 
 // Create folders
@@ -55,10 +54,8 @@ createFile('sass/pages/_contact.scss', '');
 createFile('sass/sass-utils/_variables.scss', '');
 createFile('sass/sass-utils/_functions.scss', '');
 createFile('sass/sass-utils/_mixins.scss', '');
-createFile('sass/sass-utils/_helpers.scss', '');
 
-createFile('sass/vendors/_bootstrap.scss', '');
-createFile('sass/vendors/_jquery-ui.scss', '');
+
 
 createFile('sass/style.scss', '');
 
