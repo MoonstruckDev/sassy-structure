@@ -1,6 +1,6 @@
 {
   "name": "sassy-structure",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A package designed to make starting your project in SCSS easier",
   "main": "app.js",
   "scripts": {
@@ -25,6 +25,5 @@
   "bugs": {
     "url": "https://github.com/MoonstruckDev/sassy-structure/issues"
   },
-
   "homepage": "https://github.com/MoonstruckDev/sassy-structure#readme"
 }
