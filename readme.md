@@ -74,19 +74,11 @@ https://gist.github.com/AdamMarsden/7b85e8d5bdb5bef969a0
 
 
 
-## GitHub
-
-<a href="https://github.com/MoonstruckDev"><strong>MoonstruckDev</a></strong>
-
-
-
-<p>Visit my website: <strong><a href="https://moonstruck.pro">My Website/Portfolio</a></strong></p>
-
-
-
 
 
 ## Contact
+
+<a href="https://github.com/MoonstruckDev"><strong>MoonstruckDev</a></strong>
 
 Feel free to reach out to me on my email:
 dev@moonstruck.pro
