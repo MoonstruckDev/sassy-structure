@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoonstruckDev/Sassy-Structure.git"
+    "url": "git+https://github.com/MoonstruckDev/sassy-structure.git"
   },
   "keywords": [
     "scss",
@@ -23,8 +23,8 @@
   "author": "MoonstruckDev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MoonstruckDev/Sassy-Structure/issues"
+    "url": "https://github.com/MoonstruckDev/sassy-structure/issues"
   },
-  
-  "homepage": "https://github.com/MoonstruckDev/Sassy-Structure#readme"
+
+  "homepage": "https://github.com/MoonstruckDev/sassy-structure#readme"
 }
