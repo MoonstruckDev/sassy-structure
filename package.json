@@ -4,6 +4,7 @@
   "description": "A package designed to make starting your project in SCSS easier",
   "main": "app.js",
   "scripts": {
+    "test": "hi",
     "create-sassy-structure": "node app.js"
   },
   "repository": {
