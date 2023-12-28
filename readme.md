@@ -32,7 +32,34 @@ Why did I build to project and what did it solve?
 - I built this project so it's more efficient when starting a new project and it solves having to create the whole scss file structure manually. just run the command and it does it automatically.
 
 
+### File Structure (Files can be toggled as of 1.2.0)
 
+<pre>
+.
+├── base
+│   ├── _reset.scss
+│   └── _typography.scss
+├── components
+│   ├── _buttons.scss
+│   ├── _carousel.scss
+│   ├── _cover.scss
+│   └── _dropdown.scss
+├── layout
+│   ├── _footer.scss
+│   ├── _forms.scss
+│   ├── _grid.scss
+│   ├── _header.scss
+│   ├── _navigation.scss
+│   └── _sidebar.scss
+├── pages
+│   ├── _contact.scss
+│   └── _home.scss
+├── sass-utils
+│   ├── _functions.scss
+│   ├── _mixins.scss
+│   └── _variables.scss
+└── style.scss
+</pre>
 
 
 <p>Deployed website: <strong><a href="https://www.npmjs.com/package/sassy-structure">https://www.npmjs.com/package/sassy-structure</a></strong>
